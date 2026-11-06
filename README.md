@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm a CSE Student 👋
+B.Tech Computer Science Engineering Student
+Passionate about software development, problem-solving and building practical technology solutions.
 
-<!--
-**manishka-codes/manishka-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning
+- Java and Object-Oriented Programming
+- Data Structures and Algorithms
+- Backend Development
+- Artificial Intelligence
+  
+Languages and Tools
+-Java
+-Python
+-MySQL
+-GitHub
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on
+- Improving my DSA skills.
+- Building practical software projects.
+- Exploring AI-assisted software development.
+- 
+Connect with me
+LinkedIn | GitHub | Email
+
+
