@@ -14,7 +14,7 @@ Currently working on
 - Improving my DSA skills.
 - Building practical software projects.
 - Exploring AI-assisted software development.
-- 
+  
 Connect with me
 LinkedIn | GitHub | Email
 
