@@ -8,12 +8,7 @@ Currently learning
 - Backend Development
 - Artificial Intelligence
   
-Languages and Tools
--Java
--Python
--MySQL
--GitHub
-
+Languages and Tools-Java,Python,MySQL,GitHub
 
 Currently working on
 - Improving my DSA skills.
